@@ -1,0 +1,37 @@
+post = localhost:8080/v1/user/create
+
+{
+    "name": "Manisha",
+    "age": 23,
+    "address": {
+        "state": "AP",
+        "city": "Anantapur",
+        "pincode": 12345
+    }
+}
+
+get = localhost:8080/v1/user/get/Manisha
+
+get = localhost:8080/v1/user/getall
+
+patch = localhost:8080/v1/user/update
+
+{
+    "name": "Manisha",
+    "age": 22,
+    "address": {
+        "state": "AP",
+        "city": "Anantapur",
+        "pincode": 12345
+    }
+}
+
+delete = localhost:8080/v1/user/delete/Hani
+
+
+
+{
+    "title":"Clean Code",
+    "author":"Robert C. Martin",
+    "description":"A Handbook of Agile Software Craftsmanship"
+}

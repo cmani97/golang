@@ -1,0 +1,41 @@
+{
+    "first_name" :"Manisha",
+    "last_name" : "C",
+    "email": "manisha@gmail.com",
+    "pone_number": "+917981942938",
+    "salary" : 123456,
+    "team" : [
+        {
+            "Name" : "Core Platform"
+        }
+    ],
+    "address": {
+        "house_no": "1-123",
+        "village": "Pulivendula",
+        "state": "AP",
+        "postal_code": 5163
+
+    }
+}
+
+{
+    "first_name" :"Karthikeyan",
+    "last_name" : "M",
+    "email": "karthikeyan@gmail.com",
+    "pone_number": "+919984937498",
+    "salary" : 123456,
+    "team" : [
+        {
+            "Name" : "Core Platform"
+        },
+        {
+            "Name" : "QA"
+        }
+    ],
+    "address": {
+        "house_no": "1-123",
+        "village": "XXXXX",
+        "state": "Tamil",
+        "postal_code": 123456
+    }
+}
